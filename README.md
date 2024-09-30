@@ -1,6 +1,9 @@
-# Customer-Demographics-and-Bike-Purchase-Analysis-
+# Projects
 
-Analyzed and cleaned a dataset containing customer demographics and purchasing behavior to uncover insights about the factors influencing bike purchases. 
 
-https://github.com/user-attachments/assets/a9299061-93ff-462e-95e9-27deeae2e62a
+
+
+![Bike](https://github.com/user-attachments/assets/d0147f1b-84b6-4a58-9449-2a53f58f842f)
+
+
 
