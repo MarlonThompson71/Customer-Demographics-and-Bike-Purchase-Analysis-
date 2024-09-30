@@ -1,6 +1,5 @@
-# Customer-Demographics-and-Bike-Purchase-Analysis-
+# Projects
 
-Analyzed and cleaned a dataset containing customer demographics and purchasing behavior to uncover insights about the factors influencing bike purchases. 
 
 
 
