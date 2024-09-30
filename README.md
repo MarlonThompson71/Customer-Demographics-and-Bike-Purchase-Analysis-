@@ -1,7 +1,8 @@
 # Projects
 
 # Airbnb Toronto data(Tableau)
-![Dashboard 2](https://github.com/user-attachments/assets/31650640-af6a-48d3-bc91-220e981a51a7)
+
+<img width="1440" alt="Screenshot 2024-09-30 at 3 44 12 AM" src="https://github.com/user-attachments/assets/48aa5f9d-624c-4f74-974d-42392386a852">
 
 # Bike Sales data(Excel)
 ![Bike](https://github.com/user-attachments/assets/d0147f1b-84b6-4a58-9449-2a53f58f842f)
